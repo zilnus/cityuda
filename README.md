@@ -1,3 +1,3 @@
 # cityuda
 
-All projects in Udacity Nanodegree / Free Courses
+All projects in Udacity Nanodegree
